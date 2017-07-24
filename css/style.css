@@ -1,0 +1,30 @@
+.container {
+	width: 100%;
+	max-width: 600px;
+	height: 200px;
+	margin: 0 auto;
+	padding:15px;
+	box-sizing: border-box;
+	border:1px solid blue;
+}
+
+form {
+	
+}
+
+input {
+	width: 250px;
+	height: 20px;
+	/*vertical-align:middle;*/
+	margin:5px 20px;
+	float:left;
+}
+
+span {
+	float: left;
+}
+
+.li{
+     class: "editing";
+            display: none;
+}
